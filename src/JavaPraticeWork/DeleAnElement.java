@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package JavaPraticeWork;
+
 import java.util.Scanner;
 
 public class DeleAnElement {

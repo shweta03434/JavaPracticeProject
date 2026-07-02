@@ -1,3 +1,5 @@
+package JavaPraticeWork;
+
 import java.util.Scanner;
 
 public class GCD {
@@ -8,7 +10,7 @@ public class GCD {
         System.out.println("Enter the second number: ");
         int second= sn.nextInt();
         int gcd=gcd(first,second);
-        System.out.println("GCD: "+gcd);
+        System.out.println("JavaPraticeWork.GCD: "+gcd);
     }
     public static int gcd (int first,int second){
         int gcd=1;

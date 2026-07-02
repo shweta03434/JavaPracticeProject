@@ -1,3 +1,5 @@
+package JavaPraticeWork;
+
 import java.util.Scanner;
 
 public class Prime {
@@ -20,7 +22,6 @@ public class Prime {
             if(num%i==0){
                 return false;
             }
-
             i++;
         }
        return true;

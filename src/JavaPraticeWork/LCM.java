@@ -1,3 +1,5 @@
+package JavaPraticeWork;
+
 import java.util.Scanner;
 
 public class LCM {
@@ -8,7 +10,7 @@ public class LCM {
         System.out.println("Enter the second number: ");
         int secNumber= sn.nextInt();
         int lcm=lcm(firstNumber,secNumber);
-        System.out.println("LCM: "+lcm);
+        System.out.println("JavaPraticeWork.LCM: "+lcm);
     }
 
     public static int lcm(int first,int sec){

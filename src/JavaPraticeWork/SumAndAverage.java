@@ -1,5 +1,4 @@
-import java.util.Arrays;
-import java.util.Scanner;
+package JavaPraticeWork;
 
 public class SumAndAverage {
     public static void main(String[] args) {

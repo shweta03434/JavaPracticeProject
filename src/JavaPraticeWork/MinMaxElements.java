@@ -1,3 +1,5 @@
+package JavaPraticeWork;
+
 public class MinMaxElements {
     public static void main(String[] args) {
         int[] arrayelements = ArrayListUtility.arraylist();

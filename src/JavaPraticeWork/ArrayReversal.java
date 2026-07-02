@@ -1,3 +1,5 @@
+package JavaPraticeWork;
+
 public class ArrayReversal {
     public static void main(String[] args) {
 

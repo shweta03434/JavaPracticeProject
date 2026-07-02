@@ -1,3 +1,5 @@
+package JavaPraticeWork;
+
 import java.util.Scanner;
 
 public class FibonacciSeries {
@@ -21,6 +23,8 @@ public class FibonacciSeries {
             first=second;
             second=third;
         }
+
+        // 0112358
     }
 
 }

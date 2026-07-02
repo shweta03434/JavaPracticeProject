@@ -1,3 +1,5 @@
+package JavaPraticeWork;
+
 import java.util.Scanner;
 
 public class Palindrome {
@@ -21,10 +23,11 @@ public class Palindrome {
         int reverseDigit=0;
         while(num>0){
             digit=num%10;
-            reverseDigit=reverseDigit*10+digit;
+            reverseDigit=reverseDigit*10 + digit;  // 566834
             num/=10;
         }
         System.out.println("reverse: "+reverseDigit);
         return reverseDigit;
     }
 }
+//12345
